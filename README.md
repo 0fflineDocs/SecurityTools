@@ -41,4 +41,4 @@
 
 ##### WDACConfig https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
 
-##### Open Intune Baseline SkipToTheEndpoint/OpenIntuneBaseline: Community-driven baseline to accelerate Intune adoption and learning. (github.com)
+##### Open Intune Baseline https://github.com/SkipToTheEndpoint/OpenIntuneBaseline
