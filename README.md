@@ -16,6 +16,7 @@
 
 ##### Graph Permissions Explorer https://graphpermissions.merill.net/permission/
 
+
 ## Threat Intelligence
 
 ##### Shodan https://account.shodan.io/login
@@ -25,11 +26,13 @@
 ##### OSINT MS Graph https://aadinternals.com/osint/
 
 
+
 ## Generative AI
 
 ##### Copilot4SecurityTools https://github.com/KnudsenMorten/Copilot4SecurityTools
 
 ##### DummyKitty - Cybersecurity Prompts https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt
+
 
 
 ## Devices
